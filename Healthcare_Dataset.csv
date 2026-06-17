@@ -1,0 +1,81 @@
+Patient_ID,Patient_Name,Age,Gender,City,Disease,Doctor,Hospital,Insurance_Provider,Treatment_Cost,Hospital_Days,Followup_Visits,Recovery_Status
+1001,Aziz Khan,25,Male,Hyderabad,Migraine,Dr. Singh,LifeLine,None,31868,11,5,Critical
+1002,Priya Nair,55,Female,Mumbai,Diabetes,Dr. Patel,LifeLine,HDFC Ergo,137475,10,0,Critical
+1003,Sagar Pawar,63,Male,Delhi,Pneumonia,Dr. Mehta,Apollo,HDFC Ergo,115785,6,2,Recovered
+1004,Ritika Mishra,79,Female,Pune,Hypertension,Dr. Nair,Apollo,ICICI Lombard,95165,10,2,Recovered
+1005,Atharva Deshmukh,47,Male,Chennai,Hypertension,Dr. Mehta,Fortis,Care Health,99800,10,1,Critical
+1006,Aditya Joshi,20,Male,Hyderabad,Hypertension,Dr. Singh,Apollo,Niva Bupa,,8,5,Under Treatment
+1007,Vikram Choudhary,41,Male,Delhi,Arthritis,Dr. Patel,Medistar,None,49862,9,5,Recovered
+1008,Vikram Choudhary,47,Male,Hyderabad,Kidney Stone,Dr. Singh,Fortis,ICICI Lombard,19663,4,6,Recovered
+1009,John Smith,43,Male,Pune,Migraine,Dr. Khan,LifeLine,None,135870,7,5,Under Treatment
+1010,Pooja Singh,34,Female,Delhi,Kidney Stone,Dr. Mehta,Fortis,Care Health,117311,15,4,Under Treatment
+1011,Olivia Davis,32,Female,Ahmedabad,Pneumonia,Dr. Patel,Apollo,Star Health,45066,11,1,Critical
+1012,Emma Taylor,56,Female,Chennai,Heart Disease,Dr. Gupta,Medistar,ICICI Lombard,150024,14,0,Critical
+1013,Atharva Deshmukh,25,Male,Bengaluru,Hypertension,Dr. Mehta,Sunrise,HDFC Ergo,123940,1,5,Critical
+1014,Deepak Shinde,80,Male,Ahmedabad,Hypertension,Dr. Mehta,Fortis,Care Health,164637,4,1,Under Treatment
+1015,Bhushan Jadhav,28,Male,Bengaluru,Pneumonia,Dr. Sharma,Apollo,ICICI Lombard,85612,4,0,Recovered
+1016,Alexander Hall,78,Male,Pune,Pneumonia,Dr. Patel,Medistar,HDFC Ergo,38657,11,3,Critical
+1017,Vikram Choudhary,34,Male,Delhi,Kidney Stone,Dr. Singh,Fortis,ICICI Lombard,109593,11,5,Under Treatment
+1018,William Moore,75,Male,Pune,Migraine,Dr. Singh,Apollo,ICICI Lombard,10514,10,4,Recovered
+1019,Mia Allen,32,Female,Pune,Diabetes,Dr. Singh,Apollo,Star Health,91619,,4,Recovered
+1020,Isha Kapoor,60,Female,Delhi,Kidney Stone,Dr. Rao,Fortis,Care Health,156050,8,1,Under Treatment
+1021,James Anderson,30,Male,Pune,Heart Disease,Dr. Khan,Sunrise,Niva Bupa,127427,14,5,Recovered
+1022,Afifa Shaikh,59,Female,Mumbai,Heart Disease,Dr. Khan,Apollo,HDFC Ergo,55224,4,4,Under Treatment
+1023,Rahul Gupta,45,Male,Hyderabad,Pneumonia,Dr. Singh,Apollo,Niva Bupa,149264,2,0,Critical
+1024,Ethan Lewis,71,Male,Pune,Migraine,Dr. Rao,Sunrise,Niva Bupa,131185,4,6,Under Treatment
+1025,Sneha Kulkarni,28,Female,Mumbai,Heart Disease,Dr. Mehta,Sunrise,ICICI Lombard,115888,12,5,Critical
+1026,Rashid Ansari,63,Male,Nagpur,Migraine,Dr. Mehta,LifeLine,Star Health,156828,12,4,Recovered
+1027,Sujata Herode,38,Female,Mumbai,Pneumonia,Dr. Rao,Apollo,Care Health,26000,14,1,Recovered
+1028,Henry Young,22,Male,Chennai,Hypertension,Dr. Singh,Medistar,,15418,10,0,Under Treatment
+1029,Rashid Ansari,55,Male,Hyderabad,Migraine,Dr. Khan,LifeLine,ICICI Lombard,108752,3,5,Critical
+1030,Nisha Yadav,47,Female,Pune,Diabetes,Dr. Gupta,Medistar,Care Health,31209,2,4,Recovered
+1031,Lucas Martin,34,Male,Bengaluru,Hypertension,Dr. Singh,City Care,ICICI Lombard,46352,8,6,Critical
+1032,Prajakta Barse,37,Female,Ahmedabad,Arthritis,Dr. Patel,LifeLine,ICICI Lombard,35258,15,0,Critical
+1033,Isabella Walker,27,Female,Hyderabad,Migraine,Dr. Khan,LifeLine,None,171261,14,2,Critical
+1034,Charlotte White,34,Female,Pune,Heart Disease,Dr. Mehta,Apollo,Star Health,92439,13,1,Critical
+1035,Deepak Shinde,28,Male,Ahmedabad,Heart Disease,Dr. Sharma,Apollo,Star Health,44073,9,0,Under Treatment
+1036,Mia Allen,53,Female,Chennai,Asthma,Dr. Sharma,City Care,ICICI Lombard,15458,15,2,Recovered
+1037,Afifa Shaikh,33,Female,Bengaluru,Kidney Stone,Dr. Nair,Medistar,None,45515,15,1,Recovered
+1038,Neha Bansal,74,Female,Mumbai,Asthma,Dr. Khan,Sunrise,None,70055,5,1,Critical
+1039,Karan Verma,42,Male,Indore,Migraine,Dr. Singh,Sunrise,ICICI Lombard,85003,14,6,Recovered
+1040,Arjun Reddy,19,Male,Chennai,Flu,Dr. Mehta,Apollo,ICICI Lombard,97050,11,4,Under Treatment
+1041,Afifa Shaikh,80,Female,Mumbai,Hypertension,Dr. Mehta,LifeLine,Care Health,74590,1,0,Critical
+1042,Emma Taylor,40,Female,Chennai,Kidney Stone,Dr. Patel,Sunrise,Care Health,,5,0,Critical
+1043,Emma Taylor,18,Female,Bengaluru,Heart Disease,Dr. Patel,Fortis,ICICI Lombard,168356,6,5,Recovered
+1044,Atharva Deshmukh,75,Male,Ahmedabad,Arthritis,Dr. Nair,City Care,Niva Bupa,82504,9,1,Recovered
+1045,James Anderson,60,Male,Nagpur,Arthritis,Dr. Nair,Medistar,Star Health,84658,5,1,Under Treatment
+1046,Mia Allen,56,Female,Indore,Pneumonia,Dr. Gupta,Fortis,HDFC Ergo,139001,8,6,Critical
+1047,Vikram Choudhary,60,Male,Hyderabad,Kidney Stone,Dr. Khan,Apollo,HDFC Ergo,86374,4,6,Recovered
+1048,Pooja Singh,19,Female,Delhi,Pneumonia,Dr. Patel,Sunrise,Niva Bupa,170089,10,1,Critical
+1049,Digvijay Pathode,42,Male,Chennai,Migraine,Dr. Rao,Fortis,None,6453,15,6,Recovered
+1050,Anisha Lande,45,Female,Nagpur,Kidney Stone,Dr. Gupta,Apollo,Care Health,70325,15,6,Recovered
+1051,Ava Thomas,26,Female,Ahmedabad,Kidney Stone,Dr. Khan,Sunrise,Care Health,137324,7,6,Critical
+1052,William Moore,75,Male,Indore,Pneumonia,Dr. Mehta,LifeLine,None,77695,13,6,Critical
+1053,Charlotte White,58,Female,Hyderabad,Pneumonia,Dr. Patel,Fortis,ICICI Lombard,66471,5,2,Under Treatment
+1054,Ethan Lewis,23,Male,Nagpur,Migraine,Dr. Nair,Fortis,HDFC Ergo,61086,2,3,Under Treatment
+1055,Emily Johnson,52,Female,Chennai,Diabetes,Dr. Singh,Sunrise,Niva Bupa,158112,12,0,Critical
+1056,Daniel Wilson,48,Male,Bengaluru,Arthritis,Dr. Nair,Sunrise,Care Health,148165,,4,Recovered
+1057,Charlotte White,32,Female,Chennai,Pneumonia,Dr. Sharma,Sunrise,ICICI Lombard,110989,12,1,Under Treatment
+1058,Rahul Gupta,80,Male,Chennai,Diabetes,Dr. Patel,Fortis,Niva Bupa,40572,14,3,Recovered
+1059,Sneha Kulkarni,34,Female,Bengaluru,Migraine,Dr. Gupta,City Care,ICICI Lombard,104385,5,6,Under Treatment
+1060,Deepak Shinde,71,Male,Indore,Diabetes,Dr. Sharma,City Care,HDFC Ergo,175431,2,6,Critical
+1061,Rohan Patil,66,Male,Delhi,Migraine,Dr. Sharma,Medistar,HDFC Ergo,67533,3,3,Critical
+1062,Meera Iyer,54,Female,Indore,Arthritis,Dr. Khan,LifeLine,Care Health,164186,12,5,Recovered
+1063,Anisha Lande,70,Female,Hyderabad,Hypertension,Dr. Sharma,City Care,Care Health,103384,7,5,Recovered
+1064,Aditya Joshi,55,Male,Pune,Arthritis,Dr. Patel,Medistar,,96017,9,3,Critical
+1065,Olivia Davis,22,Female,Mumbai,Heart Disease,Dr. Gupta,Apollo,Niva Bupa,99945,11,6,Under Treatment
+1066,Prajakta Barse,27,Female,Nagpur,Kidney Stone,Dr. Mehta,Medistar,Care Health,131745,8,3,Critical
+1067,Mia Allen,35,Female,Delhi,Hypertension,Dr. Mehta,Sunrise,HDFC Ergo,126820,10,4,Critical
+1068,Daniel Wilson,39,Male,Indore,Flu,Dr. Rao,Sunrise,HDFC Ergo,98015,13,2,Under Treatment
+1069,Isha Kapoor,74,Female,Ahmedabad,Diabetes,Dr. Singh,Apollo,HDFC Ergo,111542,8,4,Recovered
+1070,Digvijay Pathode,48,Male,Indore,Diabetes,Dr. Patel,City Care,HDFC Ergo,111011,12,1,Under Treatment
+1071,Rashid Ansari,55,Male,Indore,Kidney Stone,Dr. Khan,Sunrise,None,149281,6,2,Critical
+1072,Ava Thomas,35,Female,Hyderabad,Migraine,Dr. Patel,Fortis,HDFC Ergo,87719,2,5,Critical
+1073,Bhushan Jadhav,62,Male,Delhi,Migraine,Dr. Gupta,City Care,None,159556,13,4,Critical
+1074,Varun Malhotra,80,Male,Delhi,Arthritis,Dr. Singh,City Care,HDFC Ergo,84237,1,5,Critical
+1075,Rahul Gupta,35,Male,Mumbai,Kidney Stone,Dr. Mehta,Fortis,HDFC Ergo,172213,14,6,Under Treatment
+1076,Karan Verma,73,Male,Hyderabad,Pneumonia,Dr. Gupta,Sunrise,ICICI Lombard,53329,1,2,Under Treatment
+1011,Meera Iyer,70,Female,Chennai,Pneumonia,Dr. Patel,Medistar,None,19053,3,1,Critical
+1021,Nisha Yadav,23,Female,Pune,Kidney Stone,Dr. Nair,Medistar,Care Health,167114,4,6,Critical
+1031,Daniel Wilson,46,Male,Hyderabad,Heart Disease,Dr. Mehta,Medistar,Care Health,20789,10,5,Recovered
+1041,Bhushan Jadhav,31,Male,Hyderabad,Hypertension,Dr. Rao,LifeLine,HDFC Ergo,149701,2,1,Recovered
