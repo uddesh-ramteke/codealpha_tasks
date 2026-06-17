@@ -22,3 +22,15 @@ This repository contains my completed tasks for the CodeAlpha Data Analytics Int
 - CodeAlpha_Task4_Sentiment_Analysis.ipynb
 - Healthcare_Dataset.csv
 - Review.csv
+
+
+  ## Conclusion
+
+These projects demonstrate skills in:
+
+- Data cleaning
+- Exploratory data analysis
+- Data visualization
+- KPI development
+- Sentiment analysis using NLP
+- Business insight generation
